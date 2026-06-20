@@ -10,7 +10,7 @@ public class sumofrange_06 {
         int end=sc.nextInt();
         int sum=0;
         int arr[]=new int[n];
-        System.out.println("ENter array elements");
+        System.out.println("ENter aRRAy elements");
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
